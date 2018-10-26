@@ -2,6 +2,8 @@
 
 Réalisez la suite d'opérations demandé sur le jeu de données coral_growth 
 
+- Créez votre projet à partir du dépôt GitHub Classroom fournit
+
 - Organisez votre projet en un ensemble de sections. La théorie liée à l'organisation d'un projet se situe dans l'annexe dédié aux [projets dans RStudio](http://biodatascience-course.sciviews.org/sdd-umons/rs.html#rs-projet) 
 
 - Importez vos données depuis l'url suivant :
